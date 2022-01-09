@@ -1,0 +1,56 @@
+header,section{
+    width: 100%;
+    display: inline-block;
+}
+.img{
+    height: 150px;
+}
+.m1{
+    float: left;
+}
+ .m2{
+    float: right;
+    margin: 2cm;
+}
+table{
+    width: 40%;
+}
+.head{
+    float: left;
+    width:40%;
+    padding:30px;
+    font-size: 0.7cm;
+}
+.headimg{
+    float: right;
+    padding-right: 90px;
+    font-size: 0.5cm;
+
+
+}
+.link, .m2{
+    text-decoration: none;    
+}
+#one{
+    color: darkgrey;
+}
+button{
+    background-color: rgb(32, 17, 240);
+    height: 30px;
+    border: thin;
+} 
+h4{
+    padding-left: 1.5cm;
+}
+.fixed{
+    width: 20px;
+    height: 20px;
+    position: fixed;
+    top: 10px;
+    right: 100px;
+    display: inline-block;
+}
+.fixed_img{
+    height: 0.5cm;
+    width: 0.5cm;
+}
